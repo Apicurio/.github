@@ -1,12 +1,8 @@
-## Hi there 👋
+## Apicurio Community
+The Apicurio community strives to provide high quality open source software in the API and Schema domains.  Apicurio
+is an umbrella community (think Hibernate) containing multiple related projects.  Some of our top level projects
+include:
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Apicurio Studio](https://github.com/apicurio/apicurio-studio) (API/Schema Designer)
+* [Apicurio Registry](https://github.com/apicurio/apicurio-registry) (API/Schema Runtime Registry)
+* [Apicurio Data Models](https://github.com/apicurio/apicurio-data-models) (multi-language library to read/write/validate OpenAPI/AsyncAPI)
