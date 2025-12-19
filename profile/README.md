@@ -3,6 +3,7 @@ The Apicurio community strives to provide high quality open source software in t
 is an umbrella community (think Hibernate) containing multiple related projects.  Some of our top level projects
 include:
 
-* [Apicurio Studio](https://github.com/apicurio/apicurio-studio) (API/Schema Designer)
 * [Apicurio Registry](https://github.com/apicurio/apicurio-registry) (API/Schema Runtime Registry)
 * [Apicurio Data Models](https://github.com/apicurio/apicurio-data-models) (multi-language library to read/write/validate OpenAPI/AsyncAPI)
+* [Apicurio Codegen](https://github.com/apicurio/apicurio-codegen) (JAX-RS Codegen from OpenAPI)
+* [Apicurio Studio](https://github.com/apicurio/apicurio-studio) (API/Schema Designer) **Deprecated**
