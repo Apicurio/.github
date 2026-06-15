@@ -1,10 +1,10 @@
 ## Apicurio Community
 
-The Apicurio community provides high quality open source software in the API and Schema domains.
+The Apicurio community provides high quality open source software for API, Schema, and AI artifact management.
 
 ### Apicurio Registry
 
-[Apicurio Registry](https://github.com/Apicurio/apicurio-registry) is an API/Schema registry that stores and retrieves APIs and Schemas. It is a [CNCF Sandbox](https://www.cncf.io/projects/apicurio-registry/) project.
+[Apicurio Registry](https://github.com/Apicurio/apicurio-registry) is a general purpose registry for APIs, Schemas, and AI artifacts. It is a [CNCF Sandbox](https://www.cncf.io/projects/apicurio-registry/) project.
 
 ### Related Projects
 
